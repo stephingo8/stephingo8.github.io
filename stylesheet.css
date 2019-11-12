@@ -1,0 +1,19 @@
+h1 {color: red; font-size: 22pt;} 
+h2 {color: blue; font-size: 22pt;}
+h3 {color: green; font-size: 22pt;}
+p {color: navy; font-weight: bold;} 
+
+
+Body { background: lightyellow; 
+	     color: navy;
+	     font-size: 14pt;
+	   }
+
+
+IMG { 
+	max-width: 20%;
+	}
+IMG.thumbnail { 
+	width: 100px;
+	height: 70px;
+	}
